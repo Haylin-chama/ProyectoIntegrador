@@ -1,0 +1,7 @@
+Los valores a usarse son:
+	MT = Medios de Transporte
+	TV = Tiempo de Viaje
+	TD = Transbordo Diario
+	AV = Alternativas de Viaje
+	PV = Preferencia de Viajes
+	NG = Nota a los medios de transporte en general
